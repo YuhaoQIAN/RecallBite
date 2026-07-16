@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data files (too large for GitHub)
+recallbite_mvp/data/*.db
+recallbite_mvp/data/*.db-journal
+
+# Sample files (too large for GitHub)
+sample/
+
+# Pytest
+.pytest_cache/
+
+# Backup files
+*_backup_*
+*_before_*
+
+# Screenshots
+screenshot_*.png
+
+# Old nested .git
+recallbite_mvp/_git_old/
