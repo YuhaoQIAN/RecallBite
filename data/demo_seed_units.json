@@ -1,0 +1,861 @@
+[
+  {
+    "id": "028dc8ac-19f2-4f6c-bb30-d9a84af0907c",
+    "created_at": "2026-07-24T12:31:39.056254",
+    "name": "[Page 5] What Is AI?",
+    "type": "framework",
+    "purpose": "Apply structured approach: [Page 5] What Is AI?",
+    "status": "active",
+    "source_document_ids": [
+      "acceptance_pdf_001"
+    ],
+    "evidence_spans": [
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 5]\n[Page 5] What Is AI?\nImprovements in information technology have had a profound impact on the modern workforce. The job description of a salesperson, accountant, or project manager has not changed much from when Gordon E. Moore, cofounder of Intel, first observed that computing technology would roughly double in speed and capability for the same cost every 18 months. 1 However, the perfor",
+        "location": "Page 5, Section: AI Essentials for Project Professionals"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 6]\n[Page 6] Key Elements of AI\nThere are three key elements of AI: perception, prediction, and planning.\n• Perception. The ability to understand the environment and process the data that the environment provides.\n• Prediction. Enabling a machine to recognize patterns and use that recognition to predict future events. The AI’s overall performance can be improved by continuously observing iter",
+        "location": "Page 6, Section: AI Essentials for Project Professionals"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 10]\n[Page 10] Applications of AI\nAutomation Versus Intelligence\nWe defined artificial intelligence as having three aspects: the ability to perceive, predict, and plan. An automated system does none of these; it simply follows the coded instructions given to it.\nTo determine if a system is automated or intelligent, ask these questions:\n• Is there any machine learning in the system?\n• Can the ",
+        "location": "Page 10, Section: Augmented Intelligence"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 11]\n[Page 11] Goals of AI in the Exponential Age\n• Solve complex problems;\n• Automate and streamline operations with intelligent capabilities;\n• Utilize data and intelligence continuous improvement;\n• Interact with people using natural language conversation;\n• Replicate human expertise; and\n• Foster human–AI collaboration.\nAI is not a new technology. The concept has been around since the ear",
+        "location": "Page 11, Section: Automation Versus Intelligence"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 15]\n[Page 15] Categories of AI\nAssessing these patterns will help organizations better approach, plan, and execute their AI projects. Emerging methodologies are focusing on the use of these seven patterns to expedite AI project planning and execution. For example, knowing that you’re utilizing a recognition pattern can expedite the planning process. Planning teams can strategize on:\n• Soluti",
+        "location": "Page 15, Section: Machine learning has become particularly adept at"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 21]\n[Page 21] Predictive AI\nAs its name implies, predictive AI is an AI system that makes predictions or recommendations. These models use historical data to forecast future events or to classify those events.\nPredictive AI is a process to address problems such as:\n• Classification. What is the probability of an event, such as a loan default, occurring?\n• Forecasting. Determining the quantit",
+        "location": "Page 21, Section: The process of organizational"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 23]\n[Page 23] Applying AI in Project Management\nApplying AI in Project\nThe first section of this guide provides an overview of AI. If you haven’t already, please read it for a foundational understanding of AI technology. This second part covers a range of AI applications tailored to project management tasks. Through case studies, it illustrates successful AI implementations in various indust",
+        "location": "Page 23, Section: Benefits of Predictive AI"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 25]\n[Page 25] How Can AI Best Enhance Project Management?\nAI is best applied where there is a need for machines to provide automation, assistance, or augmentation of human abilities in key areas across the seven patterns of AI:\n• Autonomous systems. Systems that can accomplish a task.\n• Conversation and human interaction. Machines and humans interacting in conversational ways.\n• Hyper-person",
+        "location": "Page 25, Section: As AI technology becomes"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 26]\n[Page 26] AI in Project Management Planning\nThe next section will review how AI applications can perform or assist with various project management tasks, providing a starting point for any project practitioner to begin integrating AI into their routines.\nAs project practitioners begin to explore AI use for their own projects, a helpful resource is the PMI Prompt Engineering Exchange , wh",
+        "location": "Page 26, Section: Project business"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 29]\n[Page 29] AI in Project Monitoring\nProject monitoring ensures a project is meeting milestones and deadlines. It assures the project manager, key stakeholders, and others that the project is progressing as planned. AI-assisted project monitoring can provide timed reports and overviews on the state of a project, enabling the monitoring process to be leaner and more efficient.\n• Project rep",
+        "location": "Page 29, Section: AI in Decision-Making"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 30]\n[Page 30] AI in Communication and Collaboration\nEffective communication is crucial in project management. GenAI can facilitate improved communication by generating status updates, reports, and tailored messages to stakeholders. It can also translate technical jargon into simpler language, making information more accessible to all project stakeholders, thereby ensuring everyone involved i",
+        "location": "Page 30, Section: AI-assisted project monitoring can provide timed"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 31]\n[Page 31] AI in Document Management\nEvery project has various documentation needs, from regulatory requirements to user guides. An AI system can monitor the current state of both required and added documentation and can even create needed content.\n• Identifying documentation needs. Documentation is often overlooked until the near completion of a project, particularly in software developm",
+        "location": "Page 31, Section: GenAI can facilitate improved"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 33]\n[Page 33] Getting the Most From AI\nAI in Training and Development\nGenAI can also play a crucial role in the training and development of project professionals and teams.\n• Scenario-based learning. By providing simulations and scenario-based learning, GenAI can help project professionals improve their skills in a risk-free environment. This training can cover various aspects of project man",
+        "location": "Page 33, Section: An AI system can make the cost-planning process mo"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 34]\n[Page 34] As an Organization\nThink Big but Start Small\nAs the saying goes, success begets success. Starting with smaller, easier-to-manage implementations can save a company money and time as it ramps up its AI integration. An organization’s first foray into AI should mimic the goal-driven system pattern, where trial and error eventually lead to learning and can provide a blueprint for s",
+        "location": "Page 34, Section: AI in Training and Development"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 49]\n[Page 49] PMI Infinity™\nPMI Infinity™ is the PMI GenAI platform, packed with features that will help teams and organizations achieve more. It is designed with features to help make project teams more productive and efficient, such as:\n• Smart navigation to the most relevant, proven, and up-to-date project management practices, with an expanding content database that has been vetted by th",
+        "location": "Page 48, Section: Striking a balance between"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 50]\n[Page 50] Taking the Next Steps With AI\nThe most effective way to leverage AI technologies is to gain hands-on experience. AI, particularly GenAI, offers a user-friendly entry point with its low learning curve, making it accessible even for those with minimal technical background.\nStart by identifying small, manageable projects where AI can add value such as automating routine tasks, enh",
+        "location": "Page 50, Section: Writing Assistance"
+      }
+    ],
+    "triggers": [
+      {
+        "scenario": "When needing to implement or set up artificial intelligence, intelligence, artificial, machines, or when tasked with [page 5] what is ai? in a practical context",
+        "signals": [
+          "artificial intelligence",
+          "intelligence",
+          "artificial",
+          "machines",
+          "define",
+          "greater"
+        ],
+        "required_context": []
+      }
+    ],
+    "anti_triggers": [
+      {
+        "scenario": "When the task only asks to explain or describe [Page 5] What Is AI? without needing to apply this structured approach",
+        "reason": "Problem shape mismatch: explain vs apply"
+      }
+    ],
+    "diagnostic_questions": [
+      "Does the current task involve artificial intelligence, intelligence, artificial in a way that requires structured analysis?",
+      "Is the user trying to APPLY [page 5] what is ai? (not just learn about it)?",
+      "Is the context appropriate for applying this artificial intelligence-related method?"
+    ],
+    "execution_steps": [
+      "Improvements in information technology have had a profound impact on the modern workforce. The job description of a salesperson, accountant, or project manager has not changed much from when Gordon E. Moore, cofounder of Intel, first observed that computing technology would roughly double in speed and capability for the same cost every 18 months. 1 However, the performance of those jobs has changed significantly and will continue to do so. The modern worker has a need to:",
+      "Manage greater amounts of quickly evolving data and information;",
+      "Have a greater level of productivity and ROI; and",
+      "Extract greater value from the vast amounts of data being created.",
+      "Artificial intelligence (AI), the notion of machines that can be imbued with the same cognitive abilities as people, is one solution to the issues listed above.",
+      "The idea of thinking machines has been with us since the early 1900s. The term artificial intelligence was first used by John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon in 1955 to propose the Dartmouth Summer Research Project on Artificial Intelligence. They described the original concept of AI as “every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it.” 2"
+    ],
+    "boundaries": [
+      "Specific to context in: AI Essentials for Project Professionals",
+      "Only applies when user needs to EXECUTE this approach"
+    ],
+    "quality_checks": [
+      "Output addresses the core aspects of [page 5] what is ai?",
+      "Each recommendation or step is traceable to source material",
+      "Data requirements and limitations are acknowledged",
+      "Steps follow logical sequence from source material"
+    ],
+    "examples": [],
+    "counterexamples": [],
+    "relations": {
+      "depends_on": [],
+      "complements": [],
+      "conflicts_with": [],
+      "alternative_to": []
+    },
+    "confidence": {
+      "level": "medium",
+      "reason": "Extracted from section structure."
+    },
+    "usage": {
+      "activation_count": 0,
+      "useful_count": 0,
+      "not_useful_count": 0,
+      "false_trigger_count": 0,
+      "missing_context_count": 0,
+      "expression_issue_count": 0,
+      "last_used_at": ""
+    },
+    "decoy_tests": {
+      "should_trigger": [
+        {
+          "case": "I need to set up artificial intelligence and intelligence in our team. What's the recommended approach?",
+          "passed": true
+        },
+        {
+          "case": "We're about to implement artificial intelligence and I want to make sure we follow best practices.",
+          "passed": true
+        },
+        {
+          "case": "How do I go about deploying artificial intelligence and intelligence in a mid-size organization?",
+          "passed": true
+        },
+        {
+          "case": "I've been tasked with getting artificial intelligence operational. What structured approach should I follow?",
+          "passed": true
+        },
+        {
+          "case": "My team needs to implement artificial intelligence and intelligence — what are the key steps and considerations?",
+          "passed": true
+        }
+      ],
+      "should_not_trigger": [
+        {
+          "case": "Tell me about artificial intelligence in general — I just want background knowledge, not an assessment framework.",
+          "passed": true
+        },
+        {
+          "case": "Write a definition and overview of artificial intelligence for a glossary entry.",
+          "passed": true
+        },
+        {
+          "case": "What are people saying about artificial intelligence in the news recently? I need a media summary.",
+          "passed": true
+        },
+        {
+          "case": "Help me calculate the budget impact of artificial intelligence — I need numbers, not a structured evaluation.",
+          "passed": true
+        },
+        {
+          "case": "Draft a meeting invitation about our artificial intelligence initiative for next Thursday.",
+          "passed": true
+        }
+      ],
+      "boundary_cases": [
+        {
+          "case": "I've heard about artificial intelligence but I'm not sure if it applies to my specific situation with a small team and limited budget.",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        },
+        {
+          "case": "This is related to artificial intelligence, but I actually need help with a completely different aspect — the financial planning side.",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        },
+        {
+          "case": "I think I might need something involving artificial intelligence, but my context is very different from the typical use case. Can you help me figure out if it fits?",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        }
+      ],
+      "pass_rate": 1.0,
+      "category_rates": {
+        "should_trigger": 1.0,
+        "should_not_trigger": 1.0,
+        "boundary_cases": 1.0
+      },
+      "last_tested_at": "2026-07-24T12:31:39.296865"
+    },
+    "_source_section": "AI Essentials for Project Professionals",
+    "_source_page": 5,
+    "source_document_id": "acceptance_pdf_001",
+    "_feedback_log": [],
+    "_activation_log": []
+  },
+  {
+    "id": "0a2065f5-5a12-4176-b16c-897fc67222dc",
+    "created_at": "2026-07-24T12:31:39.059127",
+    "name": "Diagnostic: a system is automated or intelligent, ask these questions",
+    "type": "diagnostic",
+    "purpose": "Determine the state/category of a system by answering 3 diagnostic questions about a system is automated or intelligent, ask these questions",
+    "status": "active",
+    "source_document_ids": [
+      "acceptance_pdf_001"
+    ],
+    "evidence_spans": [
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "• Is there any machine learning in the system?\n• Can the system improve over time and with experience?\n• Can the system determine the next steps and avoid exceptions without human intervention?",
+        "location": "Page 10, Section: Augmented Intelligence"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "\nTo determine if a system is automated or intelligent, ask these questions:\n• Is there any machine learning in the system?\n• Can the system improve over time and with experience?\n• Can the system determine the next steps and avoid exceptions without human intervention?\nIf not, the system is not intelligent.\nHaving a broad understanding of how AI functions can be helpful, but for project profession",
+        "location": "Page 10, Section: Augmented Intelligence"
+      }
+    ],
+    "triggers": [
+      {
+        "scenario": "When needing to assess or classify whether something involves machine learning, artificial intelligence, automated, or when determining the nature of a system's capabilities",
+        "signals": [
+          "machine learning",
+          "artificial intelligence",
+          "automated",
+          "simply",
+          "predict",
+          "artificial"
+        ],
+        "required_context": []
+      }
+    ],
+    "anti_triggers": [
+      {
+        "scenario": "When the task asks to explain what a system is automated or intelligent, ask these questions means conceptually, not to assess a specific system",
+        "reason": "Problem shape mismatch: explain vs evaluate"
+      },
+      {
+        "scenario": "When the system being assessed is outside the domain this diagnostic was designed for",
+        "reason": "Domain boundary exceeded"
+      }
+    ],
+    "diagnostic_questions": [
+      "Is there any machine learning in the system?",
+      "Can the system improve over time and with experience?",
+      "Can the system determine the next steps and avoid exceptions without human intervention?"
+    ],
+    "execution_steps": [
+      "Step 1: Present each diagnostic question to the stakeholder or system under review",
+      "Step 2: Record evidence-based answers (not opinions) for each question",
+      "Step 3: Classify the result based on answer pattern (e.g., all yes = category A, mixed = category B)",
+      "Step 4: Document the classification with supporting evidence for each answer"
+    ],
+    "boundaries": [
+      "Derived from: AI Essentials for Project Professionals",
+      "Valid only for assessing systems within the domain described in source",
+      "Classification result requires human confirmation for high-stakes decisions"
+    ],
+    "quality_checks": [
+      "Each answer is supported by observable evidence or system behavior",
+      "Classification is clearly stated (not ambiguous)",
+      "Borderline cases are flagged for expert review",
+      "Diagnostic is not used beyond its validated domain"
+    ],
+    "examples": [],
+    "counterexamples": [],
+    "relations": {
+      "depends_on": [],
+      "complements": [],
+      "conflicts_with": [],
+      "alternative_to": []
+    },
+    "confidence": {
+      "level": "medium",
+      "reason": "Extracted from 3-item diagnostic."
+    },
+    "usage": {
+      "activation_count": 0,
+      "useful_count": 0,
+      "not_useful_count": 0,
+      "false_trigger_count": 0,
+      "missing_context_count": 0,
+      "expression_issue_count": 0,
+      "last_used_at": ""
+    },
+    "decoy_tests": {
+      "should_trigger": [
+        {
+          "case": "I have a system and I'm not sure if it qualifies as intelligent or just automated. How can I tell the difference?",
+          "passed": true
+        },
+        {
+          "case": "We're evaluating several tools and need a structured way to determine which ones actually use machine learning versus simple rule-based automation.",
+          "passed": true
+        },
+        {
+          "case": "My manager asked me to assess whether our current scheduling software has genuine AI capabilities. What questions should I ask?",
+          "passed": true
+        },
+        {
+          "case": "Before we invest in upgrading our platform, I need to verify if it truly learns from data or just follows hardcoded rules.",
+          "passed": true
+        },
+        {
+          "case": "I'm writing a technical assessment and need to classify three vendor products as either AI-powered or conventional automation.",
+          "passed": true
+        }
+      ],
+      "should_not_trigger": [
+        {
+          "case": "Can you explain the history and evolution of artificial intelligence as a field? I need background for a presentation.",
+          "passed": true
+        },
+        {
+          "case": "Write a one-page summary of how machine learning works for non-technical executives.",
+          "passed": true
+        },
+        {
+          "case": "What are the latest trends in AI adoption across industries this year?",
+          "passed": true
+        },
+        {
+          "case": "I need to calculate the ROI of implementing an AI solution — help me build a financial model.",
+          "passed": true
+        },
+        {
+          "case": "Help me draft an email to stakeholders explaining why we chose a particular AI vendor.",
+          "passed": true
+        }
+      ],
+      "boundary_cases": [
+        {
+          "case": "I've heard about machine learning but I'm not sure if it applies to my specific situation with a small team and limited budget.",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        },
+        {
+          "case": "This is related to machine learning, but I actually need help with a completely different aspect — the financial planning side.",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        },
+        {
+          "case": "I think I might need something involving machine learning, but my context is very different from the typical use case. Can you help me figure out if it fits?",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        }
+      ],
+      "pass_rate": 1.0,
+      "category_rates": {
+        "should_trigger": 1.0,
+        "should_not_trigger": 1.0,
+        "boundary_cases": 1.0
+      },
+      "last_tested_at": "2026-07-24T12:31:39.311655"
+    },
+    "_list_type": "diagnostic",
+    "_source_section": "Augmented Intelligence",
+    "_source_page": 10,
+    "source_document_id": "acceptance_pdf_001",
+    "_activation_log": [],
+    "_feedback_log": []
+  },
+  {
+    "id": "4cc5fc5e-19ee-4e17-bd80-5265063cad53",
+    "created_at": "2026-07-24T12:31:39.070565",
+    "name": "AI in Decision-Making",
+    "type": "framework",
+    "purpose": "Apply structured approach: AI in Decision-Making",
+    "status": "active",
+    "source_document_ids": [
+      "acceptance_pdf_001"
+    ],
+    "evidence_spans": [
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 28]\nAI in Decision-Making\nEach project, at every stage, requires a multitude of decisions, from vendor and resource selection to budgets and timelines. Analyzing the factors involved can create delays at each decision-making inflection point.\nAn AI solution can help remove some of the delays and uncertainty in the decision-making process. By utilizing combinations of the autonomous system, p",
+        "location": "Page 28, Section: AI can create an analysis of"
+      },
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "\nRetrieval-augmented generation (RAG) is an approach that leverages a data repository of custom information that can be used to enhance the accuracy and relevance of generated content. When a query is presented in a RAG system, the AI first retrieves content from a database containing relevant data.",
+        "location": "Page 35, Section: Think Big but Start Small"
+      }
+    ],
+    "triggers": [
+      {
+        "scenario": "When needing to assess or evaluate aspects related to predictive analytics, decision-making, project management, genai, or when a structured evaluation of ai in decision-making is required for a decision",
+        "signals": [
+          "predictive analytics",
+          "decision-making",
+          "project management",
+          "genai",
+          "analyzing",
+          "driven"
+        ],
+        "required_context": []
+      }
+    ],
+    "anti_triggers": [
+      {
+        "scenario": "When the task only asks to explain or describe AI in Decision-Making without needing to apply this structured approach",
+        "reason": "Problem shape mismatch: explain vs apply"
+      }
+    ],
+    "diagnostic_questions": [
+      "Does the current task involve predictive analytics, decision-making, project management in a way that requires structured analysis?",
+      "Is the user trying to APPLY ai in decision-making (not just learn about it)?",
+      "Are there risk or governance concerns related to predictive analytics that need addressing?"
+    ],
+    "execution_steps": [
+      "Each project, at every stage, requires a multitude of decisions, from vendor and resource selection to budgets and timelines. Analyzing the factors involved can create delays at each decision-making inflection point.",
+      "An AI solution can help remove some of the delays and uncertainty in the decision-making process. By utilizing combinations of the autonomous system, predictive analytics, and pattern and anomaly detection patterns, the time spent on decision-making, from gathering to analyzing data, can be reduced. AI can contribute to better decisions to help improve the overall success of a project.",
+      "The integration of GenAI into the decision-making process requires evaluation of ethical and security concerns to make sure data are secure and unbiased, as this can give AI the credibility it needs. High-quality and robust data governance is key to the success of GenAI because performance is significantly influenced by the data used. GenAI should be explicitly defined in the decision-making process, and the institution should maintain transparency and develop directives to deal with bias as well as ethics.",
+      "Data-driven decision-making. Project management involves handling vast amounts of data, including timelines, budgets, resources, and project outcomes. Having a lot of data can present problems with how they can be filtered, measured, and visualized to be useful in the project management decision-making process to make critical and strategic data-driven decisions. GenAI can analyze these data more efficiently than traditional methods, providing insights that might not be immediately apparent.",
+      "An AI solution can help remove some of the delays",
+      "and uncertainty in the decision-making process. By"
+    ],
+    "boundaries": [
+      "Specific to context in: AI Essentials for Project Professionals",
+      "Only applies when user needs to EXECUTE this approach"
+    ],
+    "quality_checks": [
+      "Output addresses the core aspects of ai in decision-making",
+      "Each recommendation or step is traceable to source material",
+      "Risks are identified with specific mitigation strategies",
+      "Data requirements and limitations are acknowledged"
+    ],
+    "examples": [],
+    "counterexamples": [],
+    "relations": {
+      "depends_on": [],
+      "complements": [],
+      "conflicts_with": [],
+      "alternative_to": []
+    },
+    "confidence": {
+      "level": "medium",
+      "reason": "Extracted from section structure."
+    },
+    "usage": {
+      "activation_count": 0,
+      "useful_count": 0,
+      "not_useful_count": 0,
+      "false_trigger_count": 0,
+      "missing_context_count": 0,
+      "expression_issue_count": 0,
+      "last_used_at": ""
+    },
+    "decoy_tests": {
+      "should_trigger": [
+        {
+          "case": "I need to evaluate our approach to predictive analytics and decision-making for an upcoming project. What dimensions should I consider?",
+          "passed": true
+        },
+        {
+          "case": "I'm preparing a strategic assessment involving predictive analytics and want to make sure I cover the right angles systematically.",
+          "passed": true
+        },
+        {
+          "case": "How should I structure my evaluation of predictive analytics and decision-making? I need a thorough approach for a board presentation.",
+          "passed": true
+        },
+        {
+          "case": "I want to apply a rigorous assessment to predictive analytics in our organization. Where do I start?",
+          "passed": true
+        },
+        {
+          "case": "My team needs to evaluate predictive analytics and decision-making from multiple perspectives before making an investment decision.",
+          "passed": true
+        }
+      ],
+      "should_not_trigger": [
+        {
+          "case": "Tell me about predictive analytics in general — I just want background knowledge, not an assessment framework.",
+          "passed": true
+        },
+        {
+          "case": "Write a definition and overview of predictive analytics for a glossary entry.",
+          "passed": true
+        },
+        {
+          "case": "What are people saying about predictive analytics in the news recently? I need a media summary.",
+          "passed": true
+        },
+        {
+          "case": "Help me calculate the budget impact of predictive analytics — I need numbers, not a structured evaluation.",
+          "passed": true
+        },
+        {
+          "case": "Draft a meeting invitation about our predictive analytics initiative for next Thursday.",
+          "passed": true
+        }
+      ],
+      "boundary_cases": [
+        {
+          "case": "I've heard about predictive analytics but I'm not sure if it applies to my specific situation with a small team and limited budget.",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        },
+        {
+          "case": "This is related to predictive analytics, but I actually need help with a completely different aspect — the financial planning side.",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        },
+        {
+          "case": "I think I might need something involving predictive analytics, but my context is very different from the typical use case. Can you help me figure out if it fits?",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        }
+      ],
+      "pass_rate": 1.0,
+      "category_rates": {
+        "should_trigger": 1.0,
+        "should_not_trigger": 1.0,
+        "boundary_cases": 1.0
+      },
+      "last_tested_at": "2026-07-24T12:31:39.354085"
+    },
+    "_source_section": "AI can create an analysis of",
+    "_source_page": 28,
+    "source_document_id": "acceptance_pdf_001",
+    "_feedback_log": [],
+    "_activation_log": []
+  },
+  {
+    "id": "b96fa2cb-d511-4373-8bf6-c67b2d4d10e2",
+    "created_at": "2026-07-24T12:31:39.058051",
+    "name": "There are various methods to enable a machine to learn:",
+    "type": "framework",
+    "purpose": "Apply structured approach: There are various methods to enable a machine to learn:",
+    "status": "active",
+    "source_document_ids": [
+      "acceptance_pdf_001"
+    ],
+    "evidence_spans": [
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 7]\nThere are various methods to enable a machine to learn:\n• Supervised learning. Algorithms can learn by being trained from examples of data. Email filtering is a good example of supervised learning. The ML algorithm is trained with a data set containing both spam and legitimate email. The algorithm learns patterns to distinguish between spam and legitimate email using the email metadata, s",
+        "location": "Page 7, Section: Types of AI"
+      }
+    ],
+    "triggers": [
+      {
+        "scenario": "When needing to implement or set up deep learning, neural network, neural networks, neural, or when tasked with there are various methods to enable a machine to learn: in a practical context",
+        "signals": [
+          "deep learning",
+          "neural network",
+          "neural networks",
+          "neural",
+          "networks",
+          "artificial"
+        ],
+        "required_context": []
+      }
+    ],
+    "anti_triggers": [
+      {
+        "scenario": "When the task only asks to explain or describe There are various methods to enable a ma without needing to apply this structured approach",
+        "reason": "Problem shape mismatch: explain vs apply"
+      }
+    ],
+    "diagnostic_questions": [
+      "Does the current task involve deep learning, neural network, neural networks in a way that requires structured analysis?",
+      "Is the user trying to APPLY there are various methods to enable a machine to learn: (not just learn about it)?",
+      "Is the context appropriate for applying this deep learning-related method?"
+    ],
+    "execution_steps": [
+      "Supervised learning. Algorithms can learn by being trained from examples of data. Email filtering is a good example of supervised learning. The ML algorithm is trained with a data set containing both spam and legitimate email. The algorithm learns patterns to distinguish between spam and legitimate email using the email metadata, sender, subject, body, and other components. Once trained, it can be implemented in an email app to filter spam emails.",
+      "Unsupervised learning. Algorithms are provided with unlabeled data, and hidden patterns or data groupings are discovered without human intervention. Image and video analysis is an example of unsupervised learning.",
+      "Reinforcement learning. Machines can also learn through trial-and-error approaches. Autonomous driving algorithms use reinforcement learning to improve their capabilities.",
+      "Our brains use neurons to connect the inputs from our senses and what we’ve learned. These connections enable humans to learn new skills based on their existing skill sets. Following this neural model, AI researchers created an ML algorithm called neural networks that can simulate how the brain works to encode learning.",
+      "With neural networks, machines learn using a set of connected artificial neurons; they input information, analyze it, and produce an output. Over time these networks quickly learn patterns.",
+      "One of the challenges with neural networks is that they require a lot of data and computing to work efficiently. The more neural layers in the network, the more efficient and powerful it can be. The trade-off for this increase is that the network becomes challenging to manage and difficult to scale."
+    ],
+    "boundaries": [
+      "Specific to context in: AI Essentials for Project Professionals",
+      "Only applies when user needs to EXECUTE this approach"
+    ],
+    "quality_checks": [
+      "Output addresses the core aspects of there are various methods to enable a machine to learn:",
+      "Each recommendation or step is traceable to source material",
+      "Data requirements and limitations are acknowledged",
+      "Steps follow logical sequence from source material"
+    ],
+    "examples": [],
+    "counterexamples": [],
+    "relations": {
+      "depends_on": [],
+      "complements": [],
+      "conflicts_with": [],
+      "alternative_to": []
+    },
+    "confidence": {
+      "level": "medium",
+      "reason": "Extracted from section structure."
+    },
+    "usage": {
+      "activation_count": 0,
+      "useful_count": 0,
+      "not_useful_count": 0,
+      "false_trigger_count": 0,
+      "missing_context_count": 0,
+      "expression_issue_count": 0,
+      "last_used_at": ""
+    },
+    "decoy_tests": {
+      "should_trigger": [
+        {
+          "case": "I need to set up deep learning and neural network in our team. What's the recommended approach?",
+          "passed": true
+        },
+        {
+          "case": "We're about to implement deep learning and I want to make sure we follow best practices.",
+          "passed": true
+        },
+        {
+          "case": "How do I go about deploying deep learning and neural network in a mid-size organization?",
+          "passed": true
+        },
+        {
+          "case": "I've been tasked with getting deep learning operational. What structured approach should I follow?",
+          "passed": true
+        },
+        {
+          "case": "My team needs to implement deep learning and neural network — what are the key steps and considerations?",
+          "passed": true
+        }
+      ],
+      "should_not_trigger": [
+        {
+          "case": "Tell me about deep learning in general — I just want background knowledge, not an assessment framework.",
+          "passed": true
+        },
+        {
+          "case": "Write a definition and overview of deep learning for a glossary entry.",
+          "passed": true
+        },
+        {
+          "case": "What are people saying about deep learning in the news recently? I need a media summary.",
+          "passed": true
+        },
+        {
+          "case": "Help me calculate the budget impact of deep learning — I need numbers, not a structured evaluation.",
+          "passed": true
+        },
+        {
+          "case": "Draft a meeting invitation about our deep learning initiative for next Thursday.",
+          "passed": true
+        }
+      ],
+      "boundary_cases": [
+        {
+          "case": "I've heard about deep learning but I'm not sure if it applies to my specific situation with a small team and limited budget.",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        },
+        {
+          "case": "This is related to deep learning, but I actually need help with a completely different aspect — the financial planning side.",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        },
+        {
+          "case": "I think I might need something involving deep learning, but my context is very different from the typical use case. Can you help me figure out if it fits?",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        }
+      ],
+      "pass_rate": 1.0,
+      "category_rates": {
+        "should_trigger": 1.0,
+        "should_not_trigger": 1.0,
+        "boundary_cases": 1.0
+      },
+      "last_tested_at": "2026-07-24T12:31:39.405333"
+    },
+    "_source_section": "Types of AI",
+    "_source_page": 7,
+    "source_document_id": "acceptance_pdf_001",
+    "_activation_log": [],
+    "_feedback_log": []
+  },
+  {
+    "id": "d431588d-e17c-4869-a2e8-2c4773a2427c",
+    "created_at": "2026-07-24T12:31:39.075398",
+    "name": "Augmenting AI Systems to Get More Value",
+    "type": "framework",
+    "purpose": "Apply structured approach: Augmenting AI Systems to Get More Value",
+    "status": "active",
+    "source_document_ids": [
+      "acceptance_pdf_001"
+    ],
+    "evidence_spans": [
+      {
+        "document_id": "acceptance_pdf_001",
+        "text": "[Page 35]\nAugmenting AI Systems to Get More Value\nMany of the use cases and examples described in this guide can be used with off-the- shelf AI technology and public LLMs. However, there are situations when those off-the- shelf solutions can’t be used as-is or at all, or there is an organizational need to get more from the off-the-shelf solution. In this case, project professionals should seek mor",
+        "location": "Page 35, Section: Think Big but Start Small"
+      }
+    ],
+    "triggers": [
+      {
+        "scenario": "When planning or strategizing around retrieval-augmented generation, decision-making, project management, prompt, or when needing a structured approach to augmenting ai systems to get more value for an organization or project",
+        "signals": [
+          "retrieval-augmented generation",
+          "decision-making",
+          "project management",
+          "prompt",
+          "accuracy",
+          "engineering"
+        ],
+        "required_context": []
+      }
+    ],
+    "anti_triggers": [
+      {
+        "scenario": "When the task only asks to explain or describe Augmenting AI Systems to Get More Value without needing to apply this structured approach",
+        "reason": "Problem shape mismatch: explain vs apply"
+      }
+    ],
+    "diagnostic_questions": [
+      "Does the current task involve retrieval-augmented generation, decision-making, project management in a way that requires structured analysis?",
+      "Is the user trying to APPLY augmenting ai systems to get more value (not just learn about it)?",
+      "Does the user need a plan or strategy specifically involving retrieval-augmented generation?"
+    ],
+    "execution_steps": [
+      "Many of the use cases and examples described in this guide can be used with off-the- shelf AI technology and public LLMs. However, there are situations when those off-the- shelf solutions can’t be used as-is or at all, or there is an organizational need to get more from the off-the-shelf solution. In this case, project professionals should seek more sophisticated approaches to extract value from AI systems.",
+      "Retrieval-Augmented Generation",
+      "There will potentially be scenarios where organizations need more from their AI system than what was provided with the core implementation. When a project requires critical data, such as domain-specific accuracy, up-to-date information, and contextual relevance, the training data on which the LLMs have been built might not have the information needed. For example, in complex project management tasks requiring detailed knowledge from proprietary documents, historical project data, and industry-specific regulations, project practitioners need approaches that augment LLMs with domain-specific, proprietary, or other custom data.",
+      "Retrieval-augmented generation (RAG) is an approach that leverages a data repository of custom information that can be used to enhance the accuracy and relevance of generated content. When a query is presented in a RAG system, the AI first retrieves content from a database containing relevant data. This information is then used to inform and guide the generation process, producing responses that are contextually appropriate and factually accurate.",
+      "A RAG-augmented AI can dynamically retrieve and integrate specialized information to generate precise and contextually appropriate responses. In contrast, public LLMs, which rely on a static knowledge base up to their last training cut-off, may not provide the specificity or current data needed for these tasks.",
+      "Project professionals might find RAG particularly beneficial for several reasons:"
+    ],
+    "boundaries": [
+      "Specific to context in: AI Essentials for Project Professionals",
+      "Only applies when user needs to EXECUTE this approach"
+    ],
+    "quality_checks": [
+      "Output addresses the core aspects of augmenting ai systems to get more value",
+      "Each recommendation or step is traceable to source material",
+      "Data requirements and limitations are acknowledged",
+      "Steps follow logical sequence from source material"
+    ],
+    "examples": [],
+    "counterexamples": [],
+    "relations": {
+      "depends_on": [],
+      "complements": [],
+      "conflicts_with": [],
+      "alternative_to": []
+    },
+    "confidence": {
+      "level": "medium",
+      "reason": "Extracted from section structure."
+    },
+    "usage": {
+      "activation_count": 0,
+      "useful_count": 0,
+      "not_useful_count": 0,
+      "false_trigger_count": 0,
+      "missing_context_count": 0,
+      "expression_issue_count": 0,
+      "last_used_at": ""
+    },
+    "decoy_tests": {
+      "should_trigger": [
+        {
+          "case": "I'm developing a strategy around retrieval-augmented generation and decision-making and need a structured way to think about it.",
+          "passed": true
+        },
+        {
+          "case": "We need to plan our approach to retrieval-augmented generation for the next fiscal year. What framework should guide this?",
+          "passed": true
+        },
+        {
+          "case": "How should I structure a roadmap for retrieval-augmented generation and decision-making? I need to present it to leadership.",
+          "passed": true
+        },
+        {
+          "case": "I want to create a systematic plan for retrieval-augmented generation adoption in our department.",
+          "passed": true
+        },
+        {
+          "case": "My organization needs a phased approach to retrieval-augmented generation and decision-making. What should we consider at each stage?",
+          "passed": true
+        }
+      ],
+      "should_not_trigger": [
+        {
+          "case": "Tell me about retrieval-augmented generation in general — I just want background knowledge, not an assessment framework.",
+          "passed": true
+        },
+        {
+          "case": "Write a definition and overview of retrieval-augmented generation for a glossary entry.",
+          "passed": true
+        },
+        {
+          "case": "What are people saying about retrieval-augmented generation in the news recently? I need a media summary.",
+          "passed": true
+        },
+        {
+          "case": "Help me calculate the budget impact of retrieval-augmented generation — I need numbers, not a structured evaluation.",
+          "passed": true
+        },
+        {
+          "case": "Draft a meeting invitation about our retrieval-augmented generation initiative for next Thursday.",
+          "passed": true
+        }
+      ],
+      "boundary_cases": [
+        {
+          "case": "I've heard about retrieval-augmented generation but I'm not sure if it applies to my specific situation with a small team and limited budget.",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        },
+        {
+          "case": "This is related to retrieval-augmented generation, but I actually need help with a completely different aspect — the financial planning side.",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        },
+        {
+          "case": "I think I might need something involving retrieval-augmented generation, but my context is very different from the typical use case. Can you help me figure out if it fits?",
+          "passed": "It sounds like you're not sure if this method fits your context. Could you describe your specific situation so I can determine if it applies?"
+        }
+      ],
+      "pass_rate": 1.0,
+      "category_rates": {
+        "should_trigger": 1.0,
+        "should_not_trigger": 1.0,
+        "boundary_cases": 1.0
+      },
+      "last_tested_at": "2026-07-24T12:31:39.450177"
+    },
+    "_source_section": "Think Big but Start Small",
+    "_source_page": 35,
+    "source_document_id": "acceptance_pdf_001",
+    "_feedback_log": [],
+    "_activation_log": []
+  }
+]

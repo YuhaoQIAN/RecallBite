@@ -28,22 +28,33 @@ desktop.ini
 # Streamlit
 .streamlit/secrets.toml
 
-# Data files (too large for GitHub)
-recallbite_mvp/data/*.db
-recallbite_mvp/data/*.db-journal
+# Runtime data (generated at runtime, not source)
+data/*.db
+data/*.db-journal
+data/cards.json
+data/chunks.json
+data/documents.json
+data/activation_units.json
+data/demo_runtime_units.json
+data/acceptance_test_units.json
+data/demo_units_acceptance_evidence_*.json
 
-# Sample files (too large for GitHub)
+# Sample files (large binaries, not for GitHub)
 sample/
 
 # Pytest
 .pytest_cache/
 
+# Build artifacts
+*.zip
+_verify_clean/
+_package_staging/
+
 # Backup files
 *_backup_*
 *_before_*
 
-# Screenshots
+# Loose screenshots (keep only screenshots/ folder)
 screenshot_*.png
+activate_tab_*.png
 
-# Old nested .git
-recallbite_mvp/_git_old/
